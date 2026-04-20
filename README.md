@@ -8,6 +8,12 @@ It provides quick insights using visual charts, KPI cards, and interactive filte
 
 ---
 
+## Dashboard Preview
+
+![Dashboard Preview](./dashboard-preview.png)
+
+---
+
 ## Features
 
 * Pivot Table for data aggregation
@@ -32,12 +38,6 @@ It provides quick insights using visual charts, KPI cards, and interactive filte
 
 ---
 
-## Dashboard Preview
-
-(Add screenshot here)
-
----
-
 ## Key Insights
 
 * IT department has the highest total salary
@@ -56,7 +56,7 @@ It provides quick insights using visual charts, KPI cards, and interactive filte
 
 ## File
 
-* Employee_Salary_Dashboard_Mini_Project.xlsx
+* [Download Excel File](./Employee_Salary_Dashboard_Mini_Project.xlsx)
 
 ---
 
